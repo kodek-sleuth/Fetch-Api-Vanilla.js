@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "Name":"Blaire Billyjay",
+        "Country":"Uganda"
+    },
+    {
+        "id":2,
+        "Name":"Glenn Milton",
+        "Country":"Canada"
+    },
+    {
+        "id":3,
+        "Name":"Ethan Hunt",
+        "Country":"USA"
+    }
+]
